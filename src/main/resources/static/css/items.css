@@ -1,0 +1,45 @@
+.item:hover
+{
+    border: 1px solid darkslategrey;
+    text-decoration: none;
+     background: #F4DECB;
+     color: #0b0d0e;
+    border-radius: 30px;
+
+
+}
+.item
+{
+    text-decoration: none;
+    background: #F8EEE7;
+    color: #0b0d0e;
+    border-radius: 30px;
+
+    color: #0b0d0e;
+     text-align: center;
+     border: 1px solid white;
+     margin: 50px 0;
+ }
+
+.item hr{
+     width: 75%;
+ }
+
+.item{
+    text-decoration: none;
+    background: #fafafa;
+    color: #0b0d0e;
+    border-radius: 30px;
+}
+.item-page{
+
+    border: 1px solid darkslategrey;
+    background: #fafafa;
+    color: #0b0d0e;
+    border-radius: 30px;
+}
+
+/*.row*/
+/*{*/
+/*    margin: 100px 0;*/
+/*}*/
